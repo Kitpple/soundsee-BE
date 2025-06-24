@@ -1,0 +1,19 @@
+# 가상환경
+venv/
+.venv/
+
+# Python 캐시
+__pycache__/
+*.pyc
+
+# 모델 및 데이터
+*.h5
+*.tflite
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
