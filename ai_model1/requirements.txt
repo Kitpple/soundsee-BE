@@ -1,0 +1,6 @@
+# ai_model1/requirements.txt
+librosa
+matplotlib
+numpy
+tensorflow
+scikit-learn
