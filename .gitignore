@@ -14,7 +14,7 @@ __pycache__/
 *.pyc
 
 # 모델 및 로그 (tflite 수동 업로드)
-*.h5
+# *.h5
 *.tflite  
 *.log
 
