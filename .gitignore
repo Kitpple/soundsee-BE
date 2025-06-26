@@ -3,7 +3,7 @@ audio_samples/
 spectrograms/
 
 # 모델 디렉토리도 제외 (학습 결과만 필요시 직접 추가)
-models/
+#models/
 
 # 가상환경
 venv/
@@ -14,7 +14,7 @@ __pycache__/
 *.pyc
 
 # 모델 및 로그 (tflite 수동 업로드)
-*.h5
+# *.h5
 *.tflite  
 *.log
 
