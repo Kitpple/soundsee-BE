@@ -24,3 +24,7 @@ __pycache__/
 # 시스템 파일
 .DS_Store
 Thumbs.db
+
+# 커밋용 Colab 노트북 (개인 토큰 포함 가능성)
+push_to_github.ipynb
+
