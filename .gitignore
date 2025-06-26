@@ -1,3 +1,10 @@
+# 음성 데이터 및 전처리 이미지 (구글 드라이브에서 처리)
+audio_samples/
+spectrograms/
+
+# 모델 디렉토리도 제외 (학습 결과만 필요시 직접 추가)
+models/
+
 # 가상환경
 venv/
 .venv/
@@ -6,12 +13,12 @@ venv/
 __pycache__/
 *.pyc
 
-# 모델 및 데이터
+# 모델 및 로그 (tflite 수동 업로드)
 *.h5
-*.tflite
+*.tflite  
 *.log
 
-# Jupyter
+# Jupyter 노트북 캐시
 .ipynb_checkpoints/
 
 # 시스템 파일
